@@ -1,0 +1,299 @@
+{
+  "context": {
+    "projectPath": "C:/Users/Hp/Desktop/AR_Car_Showroom_Unity_6000_3_25f1/Packages",
+    "unityVersion": "6000.3.25f1"
+  },
+  "inputs": [
+    "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Packages\\manifest.json",
+    "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Packages\\packages-lock.json",
+    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.3.25f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.collab-proxy@2.4.3": {
+      "name": "com.unity.collab-proxy",
+      "displayName": "Version Control",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.collab-proxy@528f1389dab3",
+      "fingerprint": "528f1389dab3605aec45519ad6a6cb0af37fbd22",
+      "editorCompatibility": "2020.3.48f1",
+      "version": "2.4.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.rider@3.0.31": {
+      "name": "com.unity.ide.rider",
+      "displayName": "JetBrains Rider Editor",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.ide.rider@7921be93db40",
+      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.31",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "displayName": "Visual Studio Editor",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.ide.visualstudio@8140e851d83e",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.ide.vscode@1.2.5": {
+      "name": "com.unity.ide.vscode",
+      "displayName": "Visual Studio Code Editor",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.ide.vscode@82e68656b7bd",
+      "fingerprint": "82e68656b7bdc5da8beb1fbaf1bb4ecf13456d51",
+      "editorCompatibility": "2019.2.0a12",
+      "version": "1.2.5",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework@1.6.0": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.test-framework@bd7f943e9647",
+      "fingerprint": "bd7f943e964734fe159ef03827ee64a0ab725741",
+      "editorCompatibility": "6000.0.44f1",
+      "version": "1.6.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "displayName": "uGUI",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.ugui@f3ea87521141",
+      "fingerprint": "f3ea87521141ffe80e1c9ea59cfc8ee77a1acda9",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "displayName": "AI",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "displayName": "Android JNI",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "displayName": "Animation",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "displayName": "Physics 2D",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "displayName": "UI",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "displayName": "Unity Web Request",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.xr.arfoundation@6.3.1": {
+      "name": "com.unity.xr.arfoundation",
+      "displayName": "AR Foundation",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.xr.arfoundation@f2cbfcba674a",
+      "fingerprint": "f2cbfcba674a47c7c36be501fc6974131f9ee257",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.3.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.arcore@6.3.1": {
+      "name": "com.unity.xr.arcore",
+      "displayName": "Google ARCore XR Plugin",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.xr.arcore@a98ab61a5eeb",
+      "fingerprint": "a98ab61a5eebcb418483a375369ede5c1b2076eb",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.3.1",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.management@4.5.0": {
+      "name": "com.unity.xr.management",
+      "displayName": "XR Plugin Management",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.xr.management@3126858600e6",
+      "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
+      "editorCompatibility": "2020.3.15f1",
+      "version": "4.5.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "displayName": "VR",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "displayName": "XR",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "displayName": "Subsystems",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.13": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "displayName": "XR Legacy Input Helpers",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers@9535ff2c27ac",
+      "fingerprint": "9535ff2c27ac3e8dfb63877c36641a1cc1a48c14",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.13",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.xr.core-utils@2.6.0": {
+      "name": "com.unity.xr.core-utils",
+      "displayName": "XR Core Utilities",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.xr.core-utils@a8b900321199",
+      "fingerprint": "a8b900321199038fe4200211a52f46d2f4bae786",
+      "editorCompatibility": "2022.3.0f1",
+      "version": "2.6.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.inputsystem@1.20.0": {
+      "name": "com.unity.inputsystem",
+      "displayName": "Input System",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.inputsystem@7a4e1a2a8194",
+      "fingerprint": "7a4e1a2a81941121ffc0721a14009b46299dada1",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "1.20.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.mathematics@1.3.3": {
+      "name": "com.unity.mathematics",
+      "displayName": "Mathematics",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.mathematics@19a9377c4ffa",
+      "fingerprint": "19a9377c4ffa59370edad3e6a34e4445529badde",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.editorcoroutines@1.1.0": {
+      "name": "com.unity.editorcoroutines",
+      "displayName": "Editor Coroutines",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.editorcoroutines@87a15ed012c2",
+      "fingerprint": "87a15ed012c21ed5d88f4ba868a5b1948294627b",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.1.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "displayName": "Particle System",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "displayName": "Unity Analytics",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "displayName": "Custom NUnit",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.ext.nunit@d8c07649098d",
+      "fingerprint": "d8c07649098d3936da4c8ab500960c1776b44592",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "displayName": "JSONSerialize",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "displayName": "UIElements",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "C:\\Users\\Hp\\Desktop\\AR_Car_Showroom_Unity_6000_3_25f1\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    }
+  }
+}

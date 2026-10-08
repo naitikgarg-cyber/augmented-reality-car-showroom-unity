@@ -1,0 +1,25 @@
+{
+    "name": "Unity.XR.ARCore.CodeSamples.Tests",
+    "rootNamespace": "",
+    "references": [
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARCore",
+        "UnityEngine.TestRunner"
+    ],
+    "includePlatforms": [
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
